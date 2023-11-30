@@ -1,16 +1,27 @@
 ### Hi there 👋
 
 <!--
-**379108810/379108810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Robin
 
-Here are some ideas to get you started:
+## 教育背景
+- **毕业学校**：Monash University
+- **专业**
+  - **本科**：机器人与机电工程
+  - **研究生**：数据科学
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 兴趣爱好
+- **电子竞技/游戏**
+  - 绝地求生
+  - League of Legends (LoL)
+  - 都市天际线
+- **烹饪**
+  - 喜欢尝试和创新不同的菜肴
+
+## 创业经验和科技探索
+- 我有丰富的创业经验，曾经参与和创立多个科技创业项目。
+- 我对探索新科技项目充满热情，特别是那些能够解决实际问题和改善人们生活的项目。
+- 我经常参与小型的科技创新项目，喜欢在动手实践中学习新技术。
+
+## 关于我
+我是一位热爱技术和创新的机电工程和数据科学专业毕业生。在学习和工作之余，我热衷于电子竞技和游戏，尤其是绝地求生、LoL 和都市天际线。我也喜欢烹饪，尝试新的食谱和烹饪技巧。我对技术的热情和我的多元化兴趣，让我始终保持着对创新的追求。
+
